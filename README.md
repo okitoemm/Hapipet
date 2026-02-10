@@ -13,6 +13,8 @@
 
 Hapipet est une application mobile cross-platform qui permet aux propriétaires de chiens de trouver des dog-sitters de confiance à proximité. Les utilisateurs peuvent rechercher, contacter et réserver des services de garde pour leurs compagnons à quatre pattes.
 
+<img width="290" height="878" alt="647A9F5C-9777-4D4F-8DE8-23A922910B12" src="https://github.com/user-attachments/assets/f94187ea-26b9-43a9-99c4-339c1f6c597c" />
+
 
 
 
