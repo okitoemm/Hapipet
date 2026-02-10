@@ -18,14 +18,14 @@ Hapipet est une application mobile cross-platform qui permet aux propriétaires 
 
 
 
-<img width="590" height="1278" alt="A8D29B43-6BF1-4DE7-A1C9-9416FA5F54E7" src="https://github.com/user-attachments/assets/a07d2275-99e6-4fa2-9474-1e75de254997" /> , <img width="590" height="1278" alt="D8011ADE-024C-48AB-85F6-335C0F33858F" src="https://github.com/user-attachments/assets/d64b7545-d938-4d3f-94aa-5c9d8c049005" />
+<img width="290" height="878" alt="A8D29B43-6BF1-4DE7-A1C9-9416FA5F54E7" src="https://github.com/user-attachments/assets/a07d2275-99e6-4fa2-9474-1e75de254997" /> , <img width="290" height="878" alt="D8011ADE-024C-48AB-85F6-335C0F33858F" src="https://github.com/user-attachments/assets/d64b7545-d938-4d3f-94aa-5c9d8c049005" />
 
 
 
-<img width="590" height="1278" alt="5800659B-023D-4F32-A481-7238FB998D9B" src="https://github.com/user-attachments/assets/30fcfd76-566f-49ad-a3fb-d51616d96d1a" /> , <img width="590" height="1278" alt="4501F918-EB9A-4465-8CC7-7815FC78C3B4" src="https://github.com/user-attachments/assets/4daf32cc-721c-4ce2-8cb7-d3acd42b92e9" />
+<img width="290" height="878" alt="5800659B-023D-4F32-A481-7238FB998D9B" src="https://github.com/user-attachments/assets/30fcfd76-566f-49ad-a3fb-d51616d96d1a" /> , <img width="290" height="878" alt="4501F918-EB9A-4465-8CC7-7815FC78C3B4" src="https://github.com/user-attachments/assets/4daf32cc-721c-4ce2-8cb7-d3acd42b92e9" />
 
 
-<img width="590" height="1278" alt="4501F918-EB9A-4465-8CC7-7815FC78C3B4" src="https://github.com/user-attachments/assets/19d6ab71-be80-4596-b3f0-9a62ba686438" />, <img width="590" height="1278" alt="B76D8EBC-8B44-406E-A2AF-F95585838641" src="https://github.com/user-attachments/assets/5b5620a1-eee0-43da-b14f-c7da087cc0e7" />
+<img width="290" height="878" alt="4501F918-EB9A-4465-8CC7-7815FC78C3B4" src="https://github.com/user-attachments/assets/19d6ab71-be80-4596-b3f0-9a62ba686438" />, <img width="290" height="878" alt="B76D8EBC-8B44-406E-A2AF-F95585838641" src="https://github.com/user-attachments/assets/5b5620a1-eee0-43da-b14f-c7da087cc0e7" />
 
 
 ### Fonctionnalités principales
